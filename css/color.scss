@@ -1,0 +1,29 @@
+html {
+  background: var(--base);
+  color: var(--base-90);
+}
+
+:root {
+  --base: #0c0915;
+  --base-10: #16131b;
+  --base-20: #242027;
+  --base-30: #322c32;
+  --base-40: #524a4c;
+  --base-50: #6c6261;
+  --base-60: #807471;
+  --base-70: #9c8e87;
+  --base-80: #ac9c93;
+  --base-90: #b5a49a;
+  --base-foreground: #c0aea3;
+  --accent: #c97074;
+  --accent-10: #161019;
+  --accent-20: #251921;
+  --accent-30: #332129;
+  --accent-40: #55333b;
+  --accent-50: #704249;
+  --accent-60: #854d53;
+  --accent-70: #c97074;
+  --accent-80: #c78d89;
+  --accent-90: #c49c95;
+  --accent-foreground: #c0aea3;
+}
